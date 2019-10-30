@@ -11,6 +11,14 @@ Multilayer 반사 Spectrum의 계산은 Transfer Matrix Method 라는 Analytic �
 
 
 
+
+
+
+![Figure_1](https://github.com/active02/Evolution-Multilayer/blob/master/result.png)
+
+
+
+
 그림설명
 
 ( 세대에 따른 구조 변화 : n 값)  ( 세대에 따른 구조 변화 : k 값)
@@ -20,10 +28,3 @@ Multilayer 반사 Spectrum의 계산은 Transfer Matrix Method 라는 Analytic �
 (결과 스펙트럼)                 (세대에 따른 스펙트럼)
 
 (세대에 따른 Target 스펙트럼에 대한 MAE 변화)
-
-
-![Figure_1](https://github.com/active02/Evolution-Multilayer/blob/master/result.png)
-
-
-
-
