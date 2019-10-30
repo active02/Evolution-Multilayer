@@ -10,6 +10,5 @@ Multilayer 반사 Spectrum의 계산은 Transfer Matrix Method 라는 Analytic �
 3. 1-2 과정을 충분히 반복한 후 이를 시각화 합니다. 결과는 아래 그림처럼 나옵니다.
 
 
-![Figure_1](https://user-images.githubusercontent.com/46823059/64152463-a499b180-ce67-11e9-9607-0781f14bedfe.png)
-
+![Figure_1](https://github.com/active02/Evolution-Multilayer/blob/master/result.png)
 
