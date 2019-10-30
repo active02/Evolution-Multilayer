@@ -179,6 +179,4 @@ if __name__=='__main__':
     generations = optimize_tmm_nk_list_using_evolutionary_algorithm(number_of_layers, nkt_range,  number_of_populations, number_of_generations, wavelength_division, target_spectrum)
     pd.Panel(generations).to_frame().to_csv(filename)
 
-#    filename = "test.csv"
-#    filename = "uni_reflector0.5.csv"
     analyze(filename, target_spectrum)
