@@ -1,7 +1,7 @@
 Multilayer 반사 Spectrum의 계산은 Transfer Matrix Method 라는 Analytic 한 방법으로 가능하지만,
 역으로 원하는 Spectrum을 갖는 Multilayer 구조를 찾는 것은 그리 간단하지는 않습니다.
 
-본 파이썬 드는 이러한 Multilayer 구조의 최적화를 유전알고리즘을 이용하여 구현하기 위한 목적으로
+본 파이썬 코드는 이러한 Multilayer 구조의 최적화를 유전알고리즘을 이용하여 구현하기 위한 목적으로
 2019년 2월에 작성하였던 프로그램입니다.
 
 내용은 다음과 같습니다.
