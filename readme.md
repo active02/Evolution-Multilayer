@@ -7,7 +7,7 @@ Multilayer 반사 Spectrum의 계산은 Transfer Matrix Method 라는 Analytic �
 내용은 다음과 같습니다.
 1. Multilayer의 각 층의 n, k, t 값을 주어진 범위에서 무작위로 생성하고, 생성된 구조변수에 해당하는 스펙트럼을 tmm 라이브러리를 이용하여 계산합니다.
 2. 1의 과정으로 생성된 여러개의 데이터 중, 목표로하는 스펙트럼과 거리가 먼 것들을 제거한 후, 나머지 데이터들에 대해 crossover 및 mutation을 통해 차세대 구조변수들을 생성합니다. 여기에는 deap 라이브러리를 사용하였습니다.
-3. 1-2 과정을 충분히 반복한 후 이를 시각화 합니다. 결과는 아래와 같습니다.
+3. 1-2 과정을 충분히 반복한 후 이를 시각화 합니다. 결과는 아래 그림처럼 나옵니다.
 
 
 ![Figure_1](https://user-images.githubusercontent.com/46823059/64152463-a499b180-ce67-11e9-9607-0781f14bedfe.png)
