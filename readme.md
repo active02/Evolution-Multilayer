@@ -1,4 +1,4 @@
-개발 기간 : 2019.02~2019.02
+- 개발 기간 : 2019.02~2019.02
 
 Multilayer 반사 Spectrum의 계산은 Transfer Matrix Method 라는 Analytic 한 방법으로 가능하지만,
 역으로 원하는 Spectrum을 갖는 Multilayer 구조를 찾는 것은 그리 간단하지는 않습니다.
